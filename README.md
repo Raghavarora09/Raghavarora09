@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raghavarora09
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python and Red Hat
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Red Hat
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me raarora09@gmail.com
 - 🔗 Connect with me www.linkedin.com/in/raghavarora09
