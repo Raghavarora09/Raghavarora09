@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raghavarora09
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Red Hat
+- 🌱 I’m currently learning AWS and Azure
 - 💞️ I’m looking to collaborate on DevOps and Linux projects
 - 📫 How to reach me raarora09@gmail.com
 - 🔗 Connect with me www.linkedin.com/in/raghavarora09
